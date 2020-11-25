@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "next": "10.0.2",
+    "pino": "6.7.0",
+    "react": "17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.8"
+  }
+}
